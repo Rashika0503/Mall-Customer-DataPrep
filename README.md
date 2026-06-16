@@ -32,4 +32,12 @@ Mall Customer Segmentation Dataset
 - task 1.ipynb
 
 ## Conclusion
-The dataset was successfully validated and prepared for further analysis.
+The dataset was successfully inspected and validated for common data quality issues.
+Key findings:
+- No missing values were found.
+- No duplicate records were found.
+- Gender values were already consistent.
+- No date columns were present.
+- All columns had appropriate data types.
+
+The cleaned dataset is ready for further analysis and visualization.
