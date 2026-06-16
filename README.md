@@ -1,2 +1,35 @@
-# Mall-Customer-DataPrep
-Data Cleaning and Preprocessing of the Mall Customer Segmentation Dataset using Python and Pandas.
+# Mall Customer Data Preparation
+
+## Objective
+Perform data cleaning and preprocessing on the Mall Customer Segmentation dataset.
+
+## Dataset
+Mall Customer Segmentation Dataset
+
+## Tools Used
+- Python
+- Pandas
+- Jupyter Notebook
+
+## Tasks Performed
+- Loaded and inspected the dataset
+- Checked for missing values
+- Checked for duplicate records
+- Verified text consistency in the Gender column
+- Checked for date columns
+- Verified data types
+- Exported the cleaned dataset
+
+## Findings
+- Missing Values: 0
+- Duplicate Records: 0
+- Date Columns: Not Present
+- Data Type Issues: None
+
+## Files Included
+- Mall_Customers.csv
+- cleaned_mall_customers.csv
+- task 1.ipynb
+
+## Conclusion
+The dataset was successfully validated and prepared for further analysis.
